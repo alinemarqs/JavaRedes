@@ -1,6 +1,6 @@
 /* Author: Aline Marques da Silva */
 
-package projeto01.atividade1;
+package atividade1;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
