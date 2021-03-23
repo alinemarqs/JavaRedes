@@ -1,3 +1,5 @@
+/* Author: Aline Marques da Silva */
+
 package atividade5;
 
 import java.io.*;
@@ -5,7 +7,6 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.util.Base64;
-
 
 public class ServidorPiadas {
 
